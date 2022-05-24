@@ -4,6 +4,8 @@
 ****                Elise NOGA             *******
 **************************************************
 
+(réalisé lors du M1 IISC à l'UCP - en 2h de temps)
+
 Fichier classBayNaif.py 
 
 Plusieurs inputs sont nécessaires :
